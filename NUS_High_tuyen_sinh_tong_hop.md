@@ -12,7 +12,7 @@
 - **[Ước tính]**: suy luận hoặc tính toán dựa trên số liệu chính thức. Cần xác nhận lại với trường.
 - **[Không chính thức]**: nguồn bên thứ ba, ví dụ trung tâm luyện thi hoặc báo chí.
 
-Nội dung từ các website được dịch và diễn giải sang tiếng Việt, không chép nguyên văn tiếng Anh. Muốn đối chiếu từng câu thì mở link ở [mục 16](#muc-16).
+Nội dung từ các website được dịch và diễn giải sang tiếng Việt, không chép nguyên văn tiếng Anh. Muốn đối chiếu từng câu thì mở link ở [mục 17](#muc-17).
 
 <a id="muc-luc"></a>
 ## Mục lục
@@ -49,14 +49,24 @@ Bấm vào tên mục để chuyển thẳng tới mục đó. Cuối mỗi mụ
    - 8.4 [Đề NMOS (Toán)](#muc-8-4)
    - 8.5 [Đề PSLE thật và cấu trúc PSLE 2026](#muc-8-5)
    - 8.6 [Tài liệu không chính thức](#muc-8-6)
-9. [iPSLE: kỳ thi PSLE quốc tế tổ chức tại Việt Nam](#muc-9)
-10. [Học phí](#muc-10)
-11. [Nội trú](#muc-11)
-12. [NUS High có học bổng không?](#muc-12)
-13. [Toàn bộ Hỏi đáp tuyển sinh của trường (35 câu)](#muc-13)
-14. [Thông tin khác từ website](#muc-14)
-15. [Những điểm chưa rõ, cần hỏi trường](#muc-15)
-16. [Nguồn](#muc-16)
+9. [Các cuộc thi Toán, Tin học, Khoa học nên tham gia](#muc-9)
+   - 9.1 [Trường và học bổng nhìn vào cuộc thi như thế nào](#muc-9-1)
+   - 9.2 [Cách xếp nhóm cuộc thi](#muc-9-2)
+   - 9.3 [Bảng tổng hợp](#muc-9-3)
+   - 9.4 [Toán](#muc-9-4)
+   - 9.5 [Khoa học](#muc-9-5)
+   - 9.6 [Tin học](#muc-9-6)
+   - 9.7 [Môn bổ trợ: tiếng Anh và iPSLE](#muc-9-7)
+   - 9.8 [Lịch gợi ý theo lộ trình](#muc-9-8)
+10. [iPSLE: kỳ thi PSLE quốc tế tổ chức tại Việt Nam](#muc-10)
+11. [Học phí](#muc-11)
+   - 11.1 [Việt Nam có thuộc diện học phí ASEAN không?](#muc-11-asean)
+12. [Nội trú](#muc-12)
+13. [NUS High có học bổng không?](#muc-13)
+14. [Toàn bộ Hỏi đáp tuyển sinh của trường (35 câu)](#muc-14)
+15. [Thông tin khác từ website](#muc-15)
+16. [Những điểm chưa rõ, cần hỏi trường](#muc-16)
+17. [Nguồn](#muc-17)
 
 ---
 
@@ -66,12 +76,14 @@ Bấm vào tên mục để chuyển thẳng tới mục đó. Cuối mỗi mụ
 | Con đường | Thời điểm nộp | Nhập học | Ghi chú |
 |---|---|---|---|
 | **Year 1 qua DSA-Sec** | Khoảng đầu tháng 5 đến đầu tháng 6/2027 [Ước tính] | Tháng 1/2028 | Cơ hội sớm nhất. Khung năm sinh dự kiến 2013–2015 [Ước tính]. Chi tiết ở [mục 3.2](#muc-3-2) |
-| **Học bổng ASEAN của MOE, vào Secondary 3** | Khoảng tháng 1–2/2029 [Ước tính] | Tháng 1/2030 | MOE xếp trường, chưa rõ có NUS High hay không. Chi tiết ở [mục 12](#muc-12) |
+| **Học bổng ASEAN của MOE, vào Secondary 3** | Khoảng tháng 1–2/2029 [Ước tính] | Tháng 1/2030 | MOE xếp trường, chưa rõ có NUS High hay không. Chi tiết ở [mục 13](#muc-13) |
 | **Year 3 NUS High, tự túc chi phí** | Khoảng tháng 8/2029 [Ước tính] | Tháng 1/2030 | Cơ hội cuối cùng, trường không nhận học sinh sau Year 3 [Chính thức]. Chi tiết ở [mục 3.4](#muc-3-4) |
 
 - Đợt tuyển 2026 (nhập học tháng 1/2027) đã đóng. Khung năm sinh của đợt này là 2012–2014, nên bé sinh 2015 chưa đủ tuổi. [Chính thức]
 - Đợt tuyển bổ sung (SIE) không áp dụng cho học sinh học ở Việt Nam, vì chỉ dành cho học sinh đã thi PSLE. [Ước tính, suy ra từ điều kiện ở [mục 3.3](#muc-3-3)]
 - Khung năm sinh của các đợt sau chưa được công bố. Giả định khung lùi thêm 1 năm mỗi đợt là suy luận của mình. [Ước tính]
+- Học sinh mang quốc tịch Việt Nam đóng học phí theo diện **học sinh quốc tế ASEAN** (S$1.885/tháng năm 2026), vì MOE xếp Việt Nam vào nhóm các nước ASEAN. Chi tiết ở [mục 11](#muc-11-asean). [Chính thức]
+- Các cuộc thi nên tham gia trước mỗi mốc nộp hồ sơ ở [mục 9.8](#muc-9-8).
 
 [↑ Về mục lục](#muc-luc)
 
@@ -577,7 +589,7 @@ Các trường tiểu học Singapore dùng bộ **PSLE English / Maths / Scienc
 - **Khoa học:**
   - Đánh giá theo chương trình Khoa học tiểu học 2023, gồm hai mục tiêu: hiểu kiến thức khoa học; vận dụng kiến thức và tư duy thực nghiệm (dự đoán, đặt giả thuyết, phân tích thông tin, đánh giá quan sát và phương pháp, trình bày giải thích).
   - Một bài thi 1 giờ 45 phút, gồm phần A với 30 câu trắc nghiệm 4 lựa chọn và phần B với 10–11 câu tự luận có cấu trúc (mỗi câu 2–5 điểm, tổng 40 điểm).
-- **Lịch PSLE 2026 ở Singapore (tham khảo):** thi nói ngày 12–13/8, thi nghe hiểu ngày 15/9, thi viết sau đó. Học sinh ở Việt Nam không thi PSLE được, xem iPSLE ở [mục 9](#muc-9).
+- **Lịch PSLE 2026 ở Singapore (tham khảo):** thi nói ngày 12–13/8, thi nghe hiểu ngày 15/9, thi viết sau đó. Học sinh ở Việt Nam không thi PSLE được, xem iPSLE ở [mục 10](#muc-10).
 
 <a id="muc-8-6"></a>
 ### 8.6 Tài liệu không chính thức
@@ -589,7 +601,297 @@ Các trường tiểu học Singapore dùng bộ **PSLE English / Maths / Scienc
 ---
 
 <a id="muc-9"></a>
-## 9. iPSLE: kỳ thi PSLE quốc tế tổ chức tại Việt Nam
+## 9. Các cuộc thi Toán, Tin học, Khoa học nên tham gia
+
+Mục này gom các cuộc thi trong nước và quốc tế có giá trị cho hồ sơ NUS High và hồ sơ học bổng, chia theo ba môn Toán, Khoa học, Tin học, cộng phần môn bổ trợ. Theo yêu cầu, không đưa TIMO vào danh sách.
+
+<a id="muc-9-1"></a>
+### 9.1 Trường và học bổng nhìn vào cuộc thi như thế nào
+
+**NUS High** [Chính thức: FAQ #5, #8, #23]
+
+- Khi chọn thí sinh Year 1 vào trại tuyển chọn, trường xem kết quả bài thi tuyển, kết quả học Toán và Khoa học ở trường, **việc tham gia và thành tích trong các cuộc thi và chương trình về Toán, Khoa học**, và thành tích ngoại khóa liên quan như giấy chứng nhận, giải thưởng.
+- Trường nói mọi việc học sinh làm để thể hiện đam mê và thế mạnh Toán, Khoa học đều được xem xét. Thi Olympic chỉ là một kênh, không bắt buộc.
+- Với Year 1, học sinh ngoài hệ thống Singapore nộp giấy chứng nhận và giải thưởng Toán, Khoa học (không bắt buộc). Với Year 3, mọi thí sinh nộp hồ sơ năng lực gồm học bạ và các thành tích này.
+- **NUS High không công bố danh sách cuộc thi được công nhận hay ưu tiên.**
+- Diện DSA của trường chỉ có Toán và Khoa học. Trường có bộ môn Khoa học máy tính, nên thành tích Tin học nhiều khả năng được xem là thành tích liên quan đến Toán, Khoa học, nhưng trường không ghi rõ. [Ước tính, nên hỏi trường]
+
+**Học bổng ASEAN của MOE** [Chính thức: MOE, SEAB]
+
+- Điều kiện là kết quả các kỳ thi ở trường tốt đều, có thành tích tham gia hoạt động ngoại khóa tốt và giỏi tiếng Anh. MOE không nêu cuộc thi cụ thể nào.
+- Kỳ thi duy nhất được nhắc chính thức là **iPSLE**: SEAB ghi thí sinh iPSLE có kết quả tốt có thể được cân nhắc cho học bổng ASEAN. Xem [mục 10](#muc-10).
+
+<a id="muc-9-2"></a>
+### 9.2 Cách xếp nhóm cuộc thi
+
+Không có bảng xếp hạng chính thức nào của NUS High hay MOE. Cách chia nhóm dưới đây là đánh giá của mình. [Ước tính]
+
+- **Nhóm 1 – chọn lọc cao:** kỳ thi do cơ quan nhà nước hoặc tổ chức học thuật uy tín tổ chức, có đội tuyển quốc gia, hoặc giải chỉ trao cho một tỉ lệ nhỏ thí sinh (khoảng 5% trở xuống). Một giải ở nhóm này có sức nặng rõ hơn trong hồ sơ.
+- **Nhóm 2 – mở rộng:** kỳ thi do tổ chức tư nhân tổ chức, tỉ lệ có huy chương cao (khoảng 40–70% thí sinh). Chỉ huy chương vàng hoặc giải cao nhất mới có sức nặng. Bù lại, đề bằng tiếng Anh, theo phong cách Singapore hoặc quốc tế, nên rất tốt để luyện thi.
+- **Không đưa vào:** TIMO (theo yêu cầu của bạn).
+
+<a id="muc-9-3"></a>
+### 9.3 Bảng tổng hợp
+
+| Cuộc thi | Môn | Đơn vị tổ chức | Đối tượng | Thời gian gần nhất | Nhóm | Kịp cho hồ sơ Year 1 (2027)? |
+|---|---|---|---|---|---|---|
+| **AMC 8** (Mỹ) | Toán | Hiệp hội Toán học Hoa Kỳ (MAA) | Lớp 8 trở xuống, dưới 15,5 tuổi vào ngày thi | 21–27/1/2027 | 1 (nếu đạt Honor Roll trở lên) | Kịp |
+| **AMC 10 / AMC 12** (Mỹ) | Toán | Hiệp hội Toán học Hoa Kỳ (MAA) | AMC 10: lớp 10 trở xuống, dưới 17,5 tuổi; không có tuổi tối thiểu | 5/11 và 13/11/2026; tháng 11/2027 | 1 (nếu đạt điểm cao) | Kỳ tháng 11/2026 kịp nếu còn chỗ đăng ký |
+| **AMC Úc** (Australian Mathematics Competition) | Toán | Australian Maths Trust (Úc) | Lớp 3–12 theo hệ Úc | 3–5/8/2027 | 1 (nếu đạt High Distinction hoặc Prize), còn lại 2 | Không kịp (diễn ra sau thi tuyển); kịp cho Year 3 |
+| **IMSO** | Toán và Khoa học | Kỳ thi quốc tế, đội tuyển Việt Nam | Từ 13 tuổi trở xuống | Tháng 10 hằng năm | 1 | Không kịp (IMSO 2027 diễn ra sau khi nộp hồ sơ), kịp cho Year 3 và học bổng ASEAN |
+| **Học sinh giỏi cấp quận/huyện, tỉnh/thành phố** | Toán, KHTN, Tin học | Phòng/Sở GD&ĐT hoặc UBND địa phương | Lớp 6–9, tùy địa phương | Thường tháng 3–4 | 1 (cấp tỉnh/thành phố) | Kịp nếu địa phương tổ chức cho lớp 6 |
+| **Tin học trẻ toàn quốc** | Tin học, Toán tư duy | Trung ương Đoàn TNCS Hồ Chí Minh | Bảng B, M2, D2 cho THCS | Vòng tỉnh trước 1/6; khu vực tháng 7; chung kết tháng 8 | 1 | Vòng tỉnh kịp |
+| **USACO** | Tin học | USA Computing Olympiad (Mỹ) | Học sinh phổ thông toàn cầu, miễn phí | 4 vòng từ tháng 12/2026 đến tháng 3–4/2027 | 1 (từ hạng Silver trở lên) | Kịp |
+| **IJSO** | Khoa học (Lý, Hóa, Sinh) | Kỳ thi quốc tế, đội tuyển Việt Nam do Sở GD&ĐT Hà Nội tuyển chọn | Dưới 16 tuổi ngày 31/12; Hà Nội chọn học sinh vào lớp 10 | Tháng 12 hằng năm | 1 | Không (dành cho lớp 10) |
+| **Hội thi nghiên cứu khoa học, kỹ thuật cấp quốc gia (ViSEF)** | Khoa học, Tin học, Kỹ thuật | Bộ GD&ĐT | Lớp 8–12 (theo dự thảo quy chế) | Tháng 3 (năm 2025) | 1 | Không (từ lớp 8), kịp cho Year 3 |
+| **IMC quốc tế luân phiên** | Toán | Luân phiên giữa các nước (2025: Việt Nam, 2026: Mông Cổ) | Chưa rõ | Tháng 8 (năm 2025) | 1 (nếu vào đội tuyển) | Chưa rõ cách chọn đội tuyển |
+| **IMC (chung kết ở Singapore)** | Toán | Đại diện tại Việt Nam: hệ thống trường Archimedes | Lớp 2–8 | Vòng quốc gia đầu tháng 4; chung kết cuối tháng 7 | 2 | Vòng quốc gia kịp |
+| **Kangaroo (IKMC)** | Toán | Tại Việt Nam: CERA (ĐH Giáo dục, ĐHQG Hà Nội) và IEG | Tiểu học và THCS | Tháng 3 | 2 | Kịp |
+| **SEAMO** | Toán | SEAMO (Singapore) | Theo lớp, đề A đến F | Tùy đơn vị tổ chức tại từng nước | 2 | Tùy lịch tại Việt Nam |
+| **AMO** | Toán | SIMCC (Singapore) và ĐH Southern Illinois Carbondale (Mỹ) | Lớp 2–12 | Đợt thi tại trường 12/10–13/11/2026 | 2 | Kịp nếu thi đợt này |
+| **SASMO** | Toán | SIMCC (Singapore) | Tiểu học đến THPT | Tùy đơn vị tổ chức tại Việt Nam | 2 | Tùy lịch tại Việt Nam |
+
+[Chính thức hoặc theo nguồn ghi ở từng cuộc thi bên dưới. Cột "Nhóm" và "Kịp cho hồ sơ" là Ước tính.]
+
+<a id="muc-9-4"></a>
+### 9.4 Toán
+
+**Chuỗi AMC của Mỹ (MAA): AMC 8 → AMC 10/12 → AIME**
+
+Hiệp hội Toán học Hoa Kỳ (MAA) tổ chức một chuỗi kỳ thi nối tiếp nhau: AMC 8 cho THCS; AMC 10 và AMC 12 cho học sinh lớn hơn; điểm cao ở AMC 10/12 được mời thi AIME; điểm rất cao ở cả hai vòng được dự USAJMO hoặc USAMO. [Theo Physics Wallah, Think Academy]
+
+**AMC 8 – American Mathematics Competitions 8** (Nhóm 1 nếu đạt Honor Roll trở lên)
+
+- Do Hiệp hội Toán học Hoa Kỳ (MAA) tổ chức. Đối tượng: học sinh lớp 8 trở xuống, dưới 15,5 tuổi vào ngày thi. [Theo Think Academy, trích quy định của MAA]
+- Đề gồm 25 câu trắc nghiệm, làm trong 40 phút, mỗi câu đúng 1 điểm, không trừ điểm câu sai. [Theo Think Academy, Aralia]
+- Năm 2027 thi trong khoảng **21–27/1/2027**. [Theo Think Academy, Aralia]
+- Mức giải và điểm chuẩn năm 2026 [Theo Think Academy]:
+  - Distinguished Honor Roll (top 1%): 24/25 điểm;
+  - Honor Roll (top 5%): 21/25 điểm;
+  - Achievement Roll (cho học sinh lớp 6 trở xuống): 15/25 điểm;
+  - điểm trung bình năm 2026: 12,42. Từ 2020 đến 2026, điểm chuẩn Distinguished Honor Roll dao động 21–24, Honor Roll dao động 17–21.
+- **Cách thi ở Việt Nam:** học sinh ngoài nước Mỹ thi qua trường hoặc trung tâm đã đăng ký với MAA làm đơn vị tổ chức thi. Hạn đăng ký của đơn vị tổ chức cho kỳ 2027: hạn sớm 28/10/2026, hạn thường 5/1/2027, hạn muộn 15/1/2027. [Theo Aralia, trích lịch của MAA] Năm 2015, Vinschool là một trong 6 trường đăng ký làm điểm thi AMC tại Việt Nam. [Chính thức: Vinschool] Cần hỏi trường hoặc trung tâm gần nhà xem năm nay có tổ chức không.
+- **Với bé sinh 2015:** đủ điều kiện thi AMC 8 vào tháng 1/2027 (lớp 6), 1/2028 (lớp 7) và 1/2029 (lớp 8). [Ước tính]
+- **Lưu ý trùng tên:** ở Việt Nam còn có kỳ thi "AMC" của Úc, xem phần AMC Úc bên dưới. Khi đăng ký cần xem rõ là AMC của Mỹ (MAA) hay của Úc (AMT).
+
+**AMC 10 và AMC 12** (Nhóm 1 nếu đạt điểm cao)
+
+- **Điều kiện** (tính vào ngày thi) [Theo Physics Wallah]:
+  - AMC 10: học sinh lớp 10 trở xuống, dưới 17,5 tuổi;
+  - AMC 12: học sinh lớp 12 trở xuống, dưới 19,5 tuổi.
+- **Không có tuổi tối thiểu cho AMC 10**, nên học sinh lớp 6 vẫn được thi. [Theo Cuemath]
+- Mỗi năm có hai ngày thi, đề A và đề B. Mùa 2026–2027: **AMC 10A/12A ngày 5/11/2026, AMC 10B/12B ngày 13/11/2026**. [Theo Physics Wallah]
+- Trước đây, khoảng 2,5% thí sinh AMC 10 và 5% thí sinh AMC 12 cao điểm nhất được mời thi AIME. [Theo Physics Wallah]
+- **Quy định AIME mới từ năm 2027** [Theo Cuemath, trích quy định của MAA; cần kiểm tra lại trên maa.org]:
+  - điểm chuẩn cố định từ trước: 100 điểm ở AMC 10 hoặc 85 điểm ở AMC 12;
+  - phải từ 13 tuổi trở lên vào ngày thi AIME (AIME 2027: 5–6/2/2027);
+  - **phải đang học toàn thời gian và đi học trực tiếp tại một trường ở Mỹ hoặc Canada**, từ lúc đăng ký đến ngày thi, và xuất trình giấy tờ tùy thân do chính phủ cấp.
+- **Ý nghĩa cho bé** [Ước tính]:
+  - Theo quy định mới, học sinh học ở Việt Nam nhiều khả năng **không thi được AIME**, kể cả khi đạt điểm chuẩn. Vì vậy với bé, giá trị của AMC 10 nằm ở chính điểm số AMC 10.
+  - Bé có thể thử AMC 10 từ tháng 11/2027 (lớp 7) hoặc tháng 11/2028 (lớp 8) sau khi đã đạt điểm tốt ở AMC 8. Kỳ tháng 11/2026 chỉ còn khoảng 10 ngày, nhiều khả năng đã hết hạn đăng ký ở các điểm thi.
+  - Đăng ký qua trường hoặc trung tâm làm đơn vị tổ chức thi, giống AMC 8.
+
+**AMC Úc – Australian Mathematics Competition** (Nhóm 1 nếu đạt High Distinction hoặc Prize, còn lại Nhóm 2)
+
+- Do Australian Maths Trust (AMT) tổ chức, lần đầu năm 1978. [Chính thức: AMT; theo Thương hiệu và Công luận]
+- Các nhóm theo lớp của Úc: Middle Primary (lớp 3–4), Upper Primary (lớp 5–6), Junior (lớp 7–8), Intermediate (lớp 9–10), Senior (lớp 11–12). Tại Việt Nam, học sinh được xếp nhóm theo độ tuổi. [Chính thức: AMT; theo Thương hiệu và Công luận]
+- Đề gồm 30 câu: 25 câu trắc nghiệm và 5 câu trả lời bằng số nguyên. Nhóm tiểu học làm 60 phút, nhóm THCS và THPT làm 75 phút. [Chính thức: AMT]
+- **Mức giải**, xét theo lớp và theo vùng (vùng có thể là một quốc gia) [Chính thức: AMT]:
+  - Prize: thường không quá 1 em trên 300 thí sinh của vùng và lớp;
+  - High Distinction: top 3% (top 5% với nhóm Senior);
+  - Distinction: top 20% (top 25% với Senior);
+  - Credit: top 55% (top 60% với Senior);
+  - ngoài ra có giải Proficiency và chứng nhận tham gia.
+- **Lịch năm 2027:** thi từ thứ Ba 3/8 đến thứ Năm 5/8/2027. Hạn đăng ký bài thi giấy cho thí sinh quốc tế: 25/6/2027; hạn đăng ký thi online: 30/7/2027. [Chính thức: AMT]
+- **Tại Việt Nam:** năm 2019, Công ty cổ phần giáo dục iSMART được AMT chấp thuận tổ chức kỳ thi, gồm 5 cấp độ cho lớp 3–12. [Theo Báo Văn hóa, 2019] Năm 2024, Trường Scotch AGS tổ chức cho gần 1.000 học sinh. [Theo Scotch AGS] Năm 2026, ba học sinh lớp 6 Trường Newton đạt huy chương Bạc và Đồng. [Theo Thương hiệu và Công luận] Mình chưa xác định được đơn vị tổ chức hiện nay. Cần hỏi trường hoặc trung tâm.
+- **Với bé** [Ước tính]: kỳ thi tháng 8/2027 diễn ra sau thi tuyển Year 1, nên dùng cho hồ sơ Year 3 và học bổng ASEAN. Giải Distinction (top 20%) có giá trị vừa phải; giải có sức nặng là High Distinction (top 3%) hoặc Prize.
+
+**IMSO – International Mathematics and Science Olympiad** (Nhóm 1)
+
+- Kỳ thi Toán và Khoa học quốc tế hằng năm cho học sinh **từ 13 tuổi trở xuống**. Bắt đầu năm 2003 do Bộ Giáo dục Indonesia khởi xướng (tên ban đầu là AMSO). Việt Nam tham dự từ năm 2014. [Theo Vietnam News, 2025]
+- Có hai môn thi riêng: Toán và Khoa học. Năm 2024, thí sinh Việt Nam có giải nhất ở cả phần thi lý thuyết và phần thi khám phá. [Theo Báo Lào Cai, 2024]
+- **Kết quả gần đây của đội Việt Nam:**
+  - 2025 (IMSO lần 22, Kedah, Malaysia, 5–9/10/2025): 24 học sinh (12 Toán, 12 Khoa học), phần lớn học lớp 6; đạt 5 vàng, 15 bạc, 4 đồng. [Theo Vietnam News]
+  - 2024 (Trung Quốc, 1–6/10/2024, khoảng 300 thí sinh từ 18 nước): 24 học sinh từ các trường tiểu học và THCS công lập, ngoài công lập ở Hà Nội; đạt 9 vàng, 14 bạc, 1 đồng; Việt Nam xếp thứ 2 toàn đoàn. Giám đốc Sở GD&ĐT Hà Nội đón đoàn và trao thưởng. [Theo Báo Lào Cai]
+  - 2019: Hà Nội đăng cai IMSO, 719 thí sinh tham dự. [Theo Giáo dục Việt Nam]
+- **Cách vào đội tuyển:** mình không tìm thấy thông báo công khai về cách tuyển chọn. Đội tuyển các năm gần đây gồm học sinh Hà Nội. Nếu ở tỉnh khác, cần hỏi Sở GD&ĐT địa phương xem có kênh tuyển chọn không. [Ước tính]
+- **Với bé sinh 2015:** bé 12 tuổi trong năm 2027 và 13 tuổi trong năm 2028, nên có thể đủ tuổi dự IMSO 2027 và 2028 tùy ngày chốt tuổi của kỳ thi. Các kỳ này diễn ra sau khi nộp hồ sơ Year 1, nhưng kịp cho Year 3 và học bổng ASEAN. [Ước tính]
+
+**Học sinh giỏi Toán cấp quận/huyện và tỉnh/thành phố** (Nhóm 1 ở cấp tỉnh/thành phố)
+
+- Kỳ thi chính thức trong hệ thống giáo dục Việt Nam. Lớp tổ chức, môn thi và thời gian do từng địa phương quyết định.
+- Ví dụ năm học 2025–2026 ở phường Hội An: giao lưu Olympic khảo sát học sinh giỏi lớp 6, 7, 8 ngày 10/4/2026. Lớp 6 và 7 thi Ngữ văn, Toán, Tiếng Anh. Lớp 8 thi thêm Tin học (lập trình C++ hoặc Python) và KHTN (Vật lý hoặc Hóa học). Mỗi bài 120 phút, thang điểm 20. [Chính thức: UBND phường Hội An]
+- Ví dụ Hà Nội: giải Nhất, Nhì kỳ thi học sinh giỏi lớp 9 cấp thành phố môn Toán hoặc KHTN là một điều kiện để dự tuyển đội IJSO. [Chính thức: Sở GD&ĐT Hà Nội]
+- Nên hỏi nhà trường hoặc Phòng GD&ĐT nơi bé học xem năm học này có kỳ thi học sinh giỏi lớp 6 không. [Ước tính]
+
+**IMC quốc tế luân phiên** (Nhóm 1 nếu vào đội tuyển)
+
+- Kỳ thi Toán quốc tế (International Mathematics Competition) tổ chức luân phiên giữa các nước, dành cho học sinh năng khiếu Toán từ hơn 40 nước và vùng lãnh thổ.
+- Năm 2025, Việt Nam đăng cai kỳ thứ 25 tại Đà Nẵng (14–19/8/2025), với 553 thí sinh từ 29 nước và vùng lãnh thổ; Việt Nam và Singapore đồng vô địch toàn đoàn. Năm 2026 tổ chức ở Mông Cổ. [Chính thức: Cổng thông tin Đà Nẵng]
+- Mình không tìm thấy thông tin chính thức về cách chọn đội tuyển Việt Nam, và chưa xác định được kỳ thi này có liên quan tới kỳ thi IMC có chung kết ở Singapore (bên dưới) hay không. [Ước tính]
+
+**IMC – chung kết ở Singapore** (Nhóm 2)
+
+- Đại diện tại Việt Nam: hệ thống trường Archimedes (tự giới thiệu là đại diện duy nhất). Năm 2026 dành cho học sinh lớp 2–8. [Theo tài liệu giới thiệu IMC 2026 của Archimedes]
+- Đề gồm 18 câu, 100 điểm, 90 phút: 8 câu trắc nghiệm (40 điểm), 8 câu điền đáp số (40 điểm), 2 bài trình bày lời giải đầy đủ (20 điểm). Vòng quốc gia làm đề tiếng Việt.
+- Tỉ lệ giải: vàng 10%, bạc 20%, đồng 40%, chứng nhận 30%.
+- Lịch năm 2026: hạn đăng ký 11:00 ngày 27/3/2026; vòng quốc gia 14:00–15:30 chủ nhật 5/4/2026 tại Hà Nội, Hải Phòng, TP.HCM, Đà Nẵng, Gia Lai; công bố kết quả 13/4; chốt danh sách đi Singapore 22/4; tập huấn 15/6–24/7; **chung kết quốc tế ở Singapore 24–27/7/2026**, thi ngày 25/7.
+- Lệ phí vòng quốc gia: 450.000đ. Đăng ký cá nhân qua biểu mẫu online, hoặc theo trường qua email acenter@aschool.edu.vn. Hotline: 082 598 8088, 083 606 2266, 091 262 2266.
+- **Lưu ý:** năm 2026, chung kết IMC ở Singapore (24–27/7) trùng ngày trại tuyển chọn của NUS High (24 hoặc 25/7). Nếu năm 2027 giữ lịch tương tự thì phải ưu tiên NUS High. [Ước tính]
+
+**Kangaroo – International Kangaroo Mathematics Contest** (Nhóm 2)
+
+- Tổ chức lần đầu tại Việt Nam năm 2016, do Trung tâm Nghiên cứu và Ứng dụng Khoa học Giáo dục (CERA, Trường ĐH Giáo dục, ĐHQG Hà Nội) và Innovative Education Group (IEG) tổ chức. Thi vào tháng 3. Năm 2019 có hơn 24.000 học sinh tiểu học và THCS từ 870 trường ở 41 tỉnh, thành phố tham dự. [Theo DTiNews, 2019]
+
+**SEAMO – Southeast Asian Mathematical Olympiad** (Nhóm 2)
+
+- Kỳ thi xuất phát từ Singapore, giám khảo chính là Terry Chew. Tổ chức tại hơn 20 nước và vùng lãnh thổ, trong đó có Việt Nam. [Theo hướng dẫn SEAMO năm 2020]
+- Đề theo lớp: Paper A (lớp 1–2), B (lớp 3–4), **C (lớp 5–6)**, **D (lớp 7–8)**, E (lớp 9–10), F (lớp 11–12).
+- 25 câu, 100 điểm, 90 phút, không dùng máy tính: câu 1–10 trắc nghiệm (3 điểm/câu), câu 11–20 tự điền (4 điểm/câu), câu 21–25 tự điền (6 điểm/câu).
+- Giải xếp theo bách phân vị trong cùng lớp: vàng từ bách phân vị 92 trở lên, bạc 80–92, đồng 60–80, dưới 60 nhận chứng nhận tham gia. Như vậy khoảng 40% thí sinh có huy chương. Khoảng 40% thí sinh cao điểm nhất vòng địa phương được dự vòng toàn cầu (SEAMO X); thí sinh xuất sắc ở vòng này nhận thư giới thiệu có chữ ký của giám khảo chính.
+- Năm 2026 có vòng mở rộng với 22 nước, tổ chức ngày 26/7/2026. [Theo trường Ang Mo Kio Primary]
+- Mình không tìm thấy đơn vị tổ chức SEAMO tại Việt Nam trên nguồn chính thức. Cần hỏi trung tâm hoặc trường đang tổ chức. Hướng dẫn trên là của năm 2020, có thể đã thay đổi.
+
+**AMO – American Mathematics Olympiad** (Nhóm 2)
+
+- Do Singapore International Mastery Contests Centre (SIMCC) và Trung tâm Nghiên cứu Giáo dục STEM của ĐH Southern Illinois Carbondale (Mỹ) cùng tổ chức. Dành cho học sinh lớp 2–12, thi trên giấy, không thi online. [Theo trang AMO của ĐH Southern Illinois]
+- Năm 2026: đợt thi tại trường 12/10–13/11/2026.
+- Huy chương và giấy chứng nhận trao cho **40% thí sinh cao điểm nhất**. Thí sinh có giải được mời dự SIMOC (Singapore International Math Olympiad Challenge); 20% cao nhất được mời dự IJMO. [Theo tài liệu AMO của trường Anglo Singapore International School]
+- Mình không tìm thấy đơn vị tổ chức AMO tại Việt Nam trên nguồn chính thức. Cần hỏi trung tâm đang tổ chức.
+
+**SASMO – Singapore and Asian Schools Math Olympiad** (Nhóm 2)
+
+- Do SIMCC tổ chức. Huy chương và giấy chứng nhận trao cho 40% thí sinh cao điểm nhất. Thí sinh có giải được mời dự SIMOC và IJMO. Các mức giải: vàng, bạc, đồng, khuyến khích, chứng nhận tham gia. [Theo tài liệu SASMO của trường Anglo Singapore International School; trường Ang Mo Kio Primary]
+
+**Kỳ thi không mở cho học sinh ở Việt Nam**
+
+- NMOS (Olympic Toán quốc gia Singapore, do NUS High ra đề) chỉ dành cho học sinh ở Singapore, nhưng sách đề có bán, xem [mục 8.4](#muc-8-4).
+
+<a id="muc-9-5"></a>
+### 9.5 Khoa học
+
+**IMSO – phần Khoa học** (Nhóm 1)
+
+- IMSO có môn Khoa học thi riêng, cùng đội tuyển với môn Toán. Năm 2025, phần Khoa học của Việt Nam đạt 2 vàng, 8 bạc, 2 đồng. Thông tin chung về IMSO ở [mục 9.4](#muc-9-4). [Theo Vietnam News]
+
+**Học sinh giỏi KHTN cấp quận/huyện và tỉnh/thành phố** (Nhóm 1 ở cấp tỉnh/thành phố)
+
+- Theo chương trình 2018, môn Khoa học tự nhiên (KHTN) gồm Lý, Hóa, Sinh. Nhiều địa phương tổ chức thi học sinh giỏi KHTN từ lớp 8, ví dụ phường Hội An năm học 2025–2026 có thi KHTN lớp 8 tách thành Vật lý hoặc Hóa học. [Chính thức: UBND phường Hội An]
+- Với bé, thời điểm phù hợp là lớp 7–8, trước khi nộp Year 3 và học bổng ASEAN. [Ước tính]
+
+**IJSO – International Junior Science Olympiad** (Nhóm 1, nhưng không kịp cho hồ sơ NUS High)
+
+- Kỳ thi khoa học quốc tế gồm Lý, Hóa, Sinh, lần đầu tổ chức năm 2004 tại Jakarta. Điều kiện: **dưới 16 tuổi vào ngày 31/12 của năm thi**. Có 3 bài thi, mỗi bài 3–4 giờ: bài trắc nghiệm 30 câu, bài lý thuyết tự luận và bài thực hành thí nghiệm. Mỗi nước cử 3–6 học sinh. [Theo Wikipedia]
+- **Đội Việt Nam là đội học sinh Hà Nội** do Sở GD&ĐT Hà Nội tuyển chọn. [Chính thức: Sở GD&ĐT Hà Nội; theo VTV, Báo Đại biểu Nhân dân]
+- Kế hoạch tuyển chọn năm 2026 của Sở GD&ĐT Hà Nội [Chính thức]:
+  - đối tượng: học sinh vào lớp 10 năm học 2026–2027 tại các trường thuộc Sở, không quá 15 tuổi tính đến 31/12/2026, có học tiếng Anh;
+  - điều kiện: đạt giải Nhất hoặc Nhì kỳ thi học sinh giỏi lớp 9 cấp thành phố năm học 2025–2026 môn Toán hoặc KHTN, **hoặc** đạt từ 6,0 điểm môn chuyên Toán hoặc chuyên Lý, Hóa, Sinh trong kỳ thi vào lớp 10 chuyên;
+  - thi tuyển ngày 20/8/2026, gồm Toán, Vật lý, Tiếng Anh, Sinh học, Hóa học; đề kết hợp trắc nghiệm và tự luận, theo chương trình 2018 (chủ yếu lớp 8 và 9);
+  - Tiếng Anh là môn điều kiện, phải đạt từ 10/20 điểm; điểm xét = Toán × 1 + (Lý + Hóa + Sinh) × 2; chọn 6 em cao nhất;
+  - đội dự IJSO 2026 tại Sofia, Bulgaria, 1–10/12/2026.
+- Kết quả gần đây: 2025 (Sochi, Nga) đạt 3 bạc, 3 đồng, cả 6 em học lớp 10 Trường THPT chuyên Hà Nội – Amsterdam. [Theo Báo Đại biểu Nhân dân] 2024 (Bucharest, Romania) đội gồm 6 em. [Theo VTV]
+- **Với bé sinh 2015:** đủ tuổi đến hết năm 2030, nhưng theo cách tuyển của Hà Nội thì phải đến lớp 10 (năm 2030), sau các mốc nộp hồ sơ NUS High. Ghi lại để tham khảo. [Ước tính]
+
+**Hội thi nghiên cứu khoa học, kỹ thuật cấp quốc gia học sinh trung học (ViSEF)** (Nhóm 1)
+
+- Do Bộ GD&ĐT tổ chức hằng năm từ năm 2013. Năm học 2024–2025 là năm đầu tổ chức theo Thông tư 06/2024/TT-BGDĐT, thi ngày 19–21/3/2025 tại Trường ĐH Tôn Đức Thắng (TP.HCM), với 212 dự án đăng ký. [Chính thức: Trường ĐH Tôn Đức Thắng]
+- Theo dự thảo quy chế mới: dành cho học sinh **lớp 8 đến lớp 12**, học lực và hạnh kiểm từ khá trở lên, được chọn vào đội thi của trường. Có 8 lĩnh vực: Toán; Vật lí và Thiên văn; Hóa học; Sinh học; Tin học; Kỹ thuật và Công nghệ; Khoa học Trái đất và Môi trường; Khoa học xã hội. Dự án của cá nhân hoặc nhóm, có giáo viên hướng dẫn của trường. Giải gồm huy chương Vàng, Bạc, Đồng. [Theo Báo Đại biểu Nhân dân, dự thảo]
+- Năm 2026, Hà Nội có 6 học sinh với 3 dự án dự Hội chợ Khoa học và Kỹ thuật quốc tế (ISEF) ở Mỹ. [Theo Báo Mới]
+- **Với bé:** có thể tham gia từ lớp 8 (năm học 2028–2029), kịp cho hồ sơ Year 3 và học bổng ASEAN. Một dự án nghiên cứu thể hiện rất rõ "đam mê Toán, Khoa học" mà NUS High tìm kiếm. [Ước tính]
+
+**Kỳ thi không mở cho học sinh ở Việt Nam**
+
+- SPSO (Olympic Khoa học tiểu học Singapore) chỉ dành cho học sinh Primary 5 ở Singapore, nhưng đề mẫu miễn phí, xem [mục 8.3](#muc-8-3).
+
+<a id="muc-9-6"></a>
+### 9.6 Tin học
+
+**Hội thi Tin học trẻ toàn quốc** (Nhóm 1)
+
+- Do Trung ương Đoàn TNCS Hồ Chí Minh tổ chức, Trung tâm Phát triển Khoa học, Công nghệ và Tài năng trẻ là cơ quan thường trực; các bộ, ngành gồm Bộ GD&ĐT và Hội Tin học Việt Nam phối hợp. Năm 2026 là hội thi lần thứ 32. [Chính thức: thể lệ năm 2024; theo Thương hiệu và Công luận, 2026]
+- Các bảng thi năm 2026 [Theo Thương hiệu và Công luận]:
+  - Bảng A: lập trình, tiểu học, cá nhân;
+  - **Bảng B: lập trình, THCS, cá nhân;**
+  - Bảng C1: lập trình, THPT chuyên, đội tối đa 2 người; Bảng C2: lập trình, THPT không chuyên, cá nhân;
+  - Bảng D1: sản phẩm sáng tạo theo chủ đề, tiểu học; **Bảng D2: sản phẩm sáng tạo, THCS**; Bảng D3: sản phẩm sáng tạo, THPT (đội tối đa 2 người, có thể có giáo viên hướng dẫn);
+  - Bảng M1, **M2: Toán tư duy và tư duy thuật toán**, tiểu học và THCS, cá nhân.
+- Nội dung theo thể lệ năm 2024 [Chính thức]: Bảng A dùng Scratch hoặc Python; Bảng B giải bài toán thuật toán theo chương trình THCS, thể thức ICPC, dùng ngôn ngữ lập trình bất kỳ; Bảng D2 trình bày sản phẩm trước ban giám khảo, chấm theo tính sáng tạo, ứng dụng thực tế, tiềm năng thương mại và tài liệu.
+- Độ tuổi THCS theo thể lệ 2024: 12–15 tuổi (phần chú thích ghi 11–15). Thí sinh được thi vượt cấp. Thí sinh đã đạt giải Nhất toàn quốc chỉ được thi ở cấp học cao hơn. [Chính thức]
+- Các vòng theo thể lệ 2024 [Chính thức]:
+  - vòng tỉnh do Tỉnh Đoàn tổ chức, xong trước 1/6;
+  - vòng sơ khảo cho **thí sinh tự do** (không thuộc đội tỉnh): đăng ký online 1/3–1/6, lệ phí 450.000đ, thi online đầu tháng 6;
+  - vòng khu vực thi trực tiếp đầu tháng 7 tại Hà Nội, TP.HCM, Lâm Đồng;
+  - chung kết tháng 8.
+- Năm 2026: vòng khu vực có 2.973 thí sinh (1.222 thí sinh đội tỉnh và 1.751 thí sinh tự do), chung kết dự kiến cuối tháng 8/2026 tại Lâm Đồng. [Theo Thương hiệu và Công luận]
+- **Với bé:** năm 2027 có thể thi Bảng B hoặc M2 (THCS). Vòng tỉnh hoặc sơ khảo (trước tháng 6) kịp cho hồ sơ Year 1; vòng khu vực (đầu tháng 7) có thể trùng bài thi tuyển của NUS High. [Ước tính]
+
+**Học sinh giỏi Tin học cấp quận/huyện, tỉnh/thành phố** (Nhóm 1 ở cấp tỉnh/thành phố)
+
+- Nhiều địa phương có môn Tin học từ lớp 8, thi lập trình trên máy bằng C++ hoặc Python, ví dụ phường Hội An năm học 2025–2026. [Chính thức: UBND phường Hội An]
+
+**USACO – USA Computing Olympiad** (Nhóm 1 từ hạng Silver trở lên)
+
+- Kỳ thi lập trình online cá nhân, **miễn phí**, mở cho học sinh phổ thông trên toàn thế giới, không cần trường đăng ký. Học sinh quốc tế đăng ký giống học sinh Mỹ. [Theo Rise Global Education, Meli Review; trang chính thức: usaco.org]
+- Có 4 hạng: Bronze, Silver, Gold, Platinum. Ai cũng bắt đầu từ Bronze, được lên hạng ngay trong kỳ thi nếu vượt ngưỡng điểm. Không bị xuống hạng.
+- Mỗi mùa có 4 vòng: tháng 12, tháng 1, tháng 2 (mỗi vòng mở khoảng 4 ngày, từ thứ Năm đến Chủ nhật) và US Open vào cuối tháng 3 hoặc đầu tháng 4. Khi bắt đầu, bài làm tính giờ liên tục 3–4 tiếng tùy hạng. Lịch mùa 2026–2027 chính thức chưa được công bố; các mùa gần đây là khoảng 11–14/12, 22–25/1, 19–22/2.
+- Ngôn ngữ: C++, Java, Python, C. Từ hạng Silver trở lên, Python có thể chạy quá thời gian giới hạn trong khi C++ vẫn đạt.
+- **Với bé:** có thể bắt đầu từ vòng tháng 12/2026 ở hạng Bronze, mục tiêu lên Silver hoặc Gold trước năm 2029. [Ước tính]
+
+<a id="muc-9-7"></a>
+### 9.7 Môn bổ trợ: tiếng Anh và iPSLE
+
+**Tiếng Anh**
+
+- Lý do cần [Chính thức]: toàn bộ bài thi và trại tuyển chọn Year 1 bằng tiếng Anh; Year 3 có bài thi tiếng Anh riêng; học bổng ASEAN yêu cầu giỏi tiếng Anh.
+- NUS High và MOE không yêu cầu chứng chỉ tiếng Anh cụ thể nào. [Chính thức: không có trên website]
+- Gợi ý: có một chứng chỉ tiếng Anh dành cho lứa tuổi THCS (ví dụ các bài thi Cambridge English dành cho học sinh, hoặc TOEFL Junior) để chứng minh trình độ trong hồ sơ, nhất là hồ sơ học bổng ASEAN. [Ước tính]
+
+**iPSLE (Toán, Khoa học, Tiếng Anh)**
+
+- Không phải cuộc thi mà là kỳ thi chuẩn hóa của SEAB, nhưng là kỳ thi duy nhất được ghi chính thức là có thể giúp được cân nhắc cho học bổng ASEAN. Kết quả xếp bậc AL1–AL8, cùng thang với PSLE nên dễ so sánh với mặt bằng học sinh Singapore. [Chính thức: SEAB]
+- Năm 2026 thi viết ngày 1–2/7, trùng tuần với bài thi tuyển Year 1 của NUS High (4/7/2026), và kết quả công bố tháng 11. Chi tiết ở [mục 10](#muc-10).
+
+<a id="muc-9-8"></a>
+### 9.8 Lịch gợi ý theo lộ trình
+
+[Ước tính, dựa trên lịch các năm gần đây. Cần kiểm tra lịch chính thức của từng kỳ thi.]
+
+**Giai đoạn 1: từ nay đến hồ sơ Year 1 (nộp tháng 5–6/2027, thi tuyển đầu tháng 7/2027)**
+
+| Thời gian | Việc nên làm |
+|---|---|
+| Ngay bây giờ (cuối tháng 10/2026) | Hỏi trường hoặc trung tâm gần nhà về điểm thi AMC 8 (hạn đăng ký sớm của đơn vị tổ chức là 28/10/2026, hạn thường 5/1/2027). Hỏi xem đợt AMO 2026 (đến 13/11/2026) có được tổ chức ở Việt Nam không. AMC 10 ngày 5/11 và 13/11/2026 nhiều khả năng đã hết hạn đăng ký, không cần cố |
+| Tháng 12/2026 – tháng 3/2027 | USACO hạng Bronze (vòng tháng 12, 1, 2 và US Open) |
+| 21–27/1/2027 | Thi AMC 8. Mục tiêu tối thiểu: Achievement Roll; mục tiêu tốt: Honor Roll (top 5%) |
+| Tháng 3/2027 | Kangaroo. Đăng ký Tin học trẻ (thí sinh tự do đăng ký từ 1/3 theo lịch 2024) |
+| Tháng 3–4/2027 | Kỳ thi học sinh giỏi lớp 6 cấp quận/huyện, nếu địa phương có tổ chức |
+| Cuối tháng 3 – đầu tháng 4/2027 | Đăng ký và thi vòng quốc gia IMC (năm 2026: hạn 27/3, thi 5/4) |
+| Trước 1/6/2027 | Tin học trẻ vòng tỉnh hoặc vòng sơ khảo online |
+| Tháng 5–6/2027 | Nộp hồ sơ DSA-Sec, kèm bản scan giấy chứng nhận các giải đã có |
+| Tháng 7/2027 | Ưu tiên bài thi tuyển và trại của NUS High. Các kỳ có thể trùng lịch: iPSLE (đầu tháng 7), Tin học trẻ vòng khu vực (đầu tháng 7), chung kết IMC ở Singapore (cuối tháng 7) |
+
+**Giai đoạn 2: tháng 8/2027 đến năm 2029 (hồ sơ học bổng ASEAN tháng 1–2/2029 và Year 3 tháng 8/2029)**
+
+| Thời gian | Việc nên làm |
+|---|---|
+| Tháng 8/2027, tháng 8/2028 | AMC Úc (năm 2027: 3–5/8; hạn đăng ký thí sinh quốc tế 25/6/2027). Mục tiêu: High Distinction |
+| Tháng 10/2027, tháng 10/2028 | IMSO, nếu đủ tuổi và được chọn vào đội tuyển |
+| Tháng 11/2027, tháng 11/2028 | AMC 10 (đề A hoặc B), nếu AMC 8 đã đạt điểm tốt |
+| Tháng 1/2028, tháng 1/2029 | AMC 8 lớp 7 và lớp 8. Mục tiêu: Honor Roll hoặc Distinguished Honor Roll |
+| Các mùa USACO 2027–2028, 2028–2029 | Lên hạng Silver, rồi Gold |
+| Tháng 3–4/2028, 3–4/2029 | Học sinh giỏi lớp 7 và lớp 8 cấp quận/huyện, tỉnh/thành phố (Toán, KHTN, Tin học) |
+| Năm 2028, 2029 | Tin học trẻ Bảng B, M2 hoặc D2 |
+| Năm học 2028–2029 | Dự án nghiên cứu khoa học, kỹ thuật (ViSEF) từ lớp 8 |
+| Trước tháng 1/2029 | Có chứng chỉ tiếng Anh cho hồ sơ học bổng ASEAN |
+
+**Lưu ý chung:** giữ bản scan rõ của mọi giấy chứng nhận, kèm bản dịch tiếng Anh cho giấy tờ tiếng Việt, vì hồ sơ NUS High và học bổng ASEAN đều xử lý bằng tiếng Anh. [Ước tính]
+
+[↑ Về mục lục](#muc-luc)
+
+---
+
+<a id="muc-10"></a>
+## 10. iPSLE: kỳ thi PSLE quốc tế tổ chức tại Việt Nam
 
 **Giới thiệu** [Chính thức: SEAB]
 
@@ -662,8 +964,8 @@ Thí sinh phải có mặt tại chỗ ngồi 15 phút trước mỗi bài. Lị
 
 ---
 
-<a id="muc-10"></a>
-## 10. Học phí
+<a id="muc-11"></a>
+## 11. Học phí
 
 **Học phí mỗi tháng năm 2026** [Chính thức: trang School Fees]
 
@@ -673,6 +975,23 @@ Thí sinh phải có mặt tại chỗ ngồi 15 phút trước mỗi bài. Lị
 | Thường trú nhân Singapore | 1.090 |
 | **Học sinh quốc tế thuộc ASEAN (gồm Việt Nam)** | **1.885** |
 | Học sinh quốc tế ngoài ASEAN | 2.995 |
+
+Trang School Fees hiện chỉ có cột năm 2026 (đầu trang ghi cập nhật 24/6/2026, chân trang ghi cập nhật 23/10/2026). [Chính thức]
+
+<a id="muc-11-asean"></a>
+### Việt Nam có thuộc diện học phí ASEAN không?
+
+- **Có.** Trang học phí của MOE (cập nhật 16/10/2026) liệt kê các nước ASEAN gồm: Brunei Darussalam, Campuchia, Indonesia, Lào, Malaysia, Myanmar, Philippines, Singapore, Thái Lan, Timor-Leste và **Việt Nam**. [Chính thức: MOE]
+- Bảng học phí của NUS High chia học sinh quốc tế thành hai mức: ASEAN (S$1.885/tháng) và ngoài ASEAN (S$2.995/tháng). Trang của NUS High không tự định nghĩa ASEAN. Ghép với danh sách của MOE, học sinh quốc tịch Việt Nam đóng mức ASEAN. [Suy ra từ hai nguồn chính thức]
+- Chênh lệch giữa hai mức: S$1.110/tháng, tức S$13.320/năm, khoảng 273 triệu đồng/năm theo tỷ giá 20.500đ/SGD. [Ước tính]
+- Mức học phí xét theo quốc tịch và diện cư trú. Khi thay đổi quốc tịch hay diện cư trú, phải nộp giấy tờ cho trường, và mức phí mới áp dụng từ tháng sau. [Chính thức: trang School Fees]
+- **Vì sao có tin đồn "ASEAN chỉ cho vài nước lân cận":** nhiều khả năng do nhầm với **học bổng ASEAN** của MOE. Học bổng này mở ở các lối vào khác nhau tùy nước [Không chính thức: Borderless; riêng phần Việt Nam là Chính thức: MOE]:
+  - Brunei và Malaysia: Secondary 1, Secondary 3 và Pre-University 1;
+  - Thái Lan: Secondary 3 và Pre-University 1;
+  - Indonesia: Secondary 1 và Secondary 3;
+  - Campuchia, Lào, Myanmar, Philippines và **Việt Nam: chỉ Secondary 3**.
+  Học bổng ASEAN và mức học phí ASEAN là hai chuyện khác nhau. Việt Nam bị hạn chế ở lối vào học bổng, không bị hạn chế ở mức học phí. [Ước tính về nguyên nhân tin đồn]
+- Nên xin trường xác nhận bằng email mức phí áp dụng cho năm nhập học của bé (câu hỏi ở [mục 16](#muc-16)). [Ước tính]
 
 **Quy định kèm theo** [Chính thức]
 
@@ -709,7 +1028,7 @@ Tính theo mức phí năm 2026 và tỷ giá khoảng 20.500đ/SGD. Tỷ giá t
 | Khoản | SGD | VND (ước tính) |
 |---|---|---|
 | Học phí và phí linh tinh (S$1.915 × 12 tháng) | 22.980 | ~471 triệu |
-| Nội trú (giả định 4 kỳ × S$1.925, xem [mục 11](#muc-11)) | ~7.700 | ~158 triệu |
+| Nội trú (giả định 4 kỳ × S$1.925, xem [mục 12](#muc-12)) | ~7.700 | ~158 triệu |
 | **Tổng mỗi năm** | **~30.680** | **~629 triệu** |
 | Học phí trọn 6 năm, nếu giữ giá 2026 | ~137.880 | ~2,83 tỷ |
 | Học phí và nội trú trọn 6 năm, nếu giữ giá 2026 | ~184.080 | ~3,77 tỷ |
@@ -720,8 +1039,8 @@ Tính theo mức phí năm 2026 và tỷ giá khoảng 20.500đ/SGD. Tỷ giá t
 
 ---
 
-<a id="muc-11"></a>
-## 11. Nội trú
+<a id="muc-12"></a>
+## 12. Nội trú
 
 **Giới thiệu** [Chính thức: trang Boarding Objectives]
 
@@ -752,7 +1071,7 @@ Tính theo mức phí năm 2026 và tỷ giá khoảng 20.500đ/SGD. Tỷ giá t
   - Kỳ 1: 4/3/2026, cho phí kỳ 1;
   - Kỳ 2: 8/5/2026, cho phí kỳ 2 và phí ở lại kỳ nghỉ tháng 3 (nếu có);
   - Kỳ 3: 27/7/2026, cho phí kỳ 3 và phí ở lại kỳ nghỉ giữa năm (nếu có).
-- Lịch GIRO chỉ liệt kê 3 kỳ. Phép tính "4 kỳ/năm" trong bảng chi phí ở [mục 10](#muc-10) là giả định của mình theo lịch 4 kỳ của trường học Singapore, cần hỏi lại trường. [Ước tính]
+- Lịch GIRO chỉ liệt kê 3 kỳ. Phép tính "4 kỳ/năm" trong bảng chi phí ở [mục 11](#muc-11) là giả định của mình theo lịch 4 kỳ của trường học Singapore, cần hỏi lại trường. [Ước tính]
 - Trường trợ cấp phí nội trú Year 5 cho học sinh khó khăn đang hưởng hoặc đủ điều kiện hưởng chương trình hỗ trợ tài chính của MOE. [Chính thức]
 
 **Nội quy và sinh hoạt** [Chính thức: trang Admin and Information]
@@ -775,18 +1094,18 @@ Tính theo mức phí năm 2026 và tỷ giá khoảng 20.500đ/SGD. Tỷ giá t
 
 ---
 
-<a id="muc-12"></a>
-## 12. NUS High có học bổng không?
+<a id="muc-13"></a>
+## 13. NUS High có học bổng không?
 
-<a id="muc-12-tra-loi"></a>
-### 12.1 Trả lời
+<a id="muc-13-tra-loi"></a>
+### 13.1 Trả lời
 
 - **Có, nhưng chỉ dành cho công dân Singapore hoặc gia đình khó khăn đang sống ở Singapore.** [Chính thức]
 - **Website của NUS High không có học bổng nào dành cho học sinh quốc tế**, ở cả Year 1 lẫn Year 3. [Chính thức: trang Scholarships and Awards, Financial Assistance]
-- Với học sinh Việt Nam, kênh tài trợ duy nhất đã được xác nhận là **học bổng ASEAN của MOE**, chỉ có ở lối vào Secondary 3. Chưa rõ NUS High có nằm trong danh sách trường của học bổng này hay không. Xem [mục 12.7](#muc-12-7).
-- Nếu đi đường nộp đơn trực tiếp vào NUS High, nên tính là **tự túc toàn bộ chi phí** (xem [mục 10](#muc-10)). [Ước tính]
+- Với học sinh Việt Nam, kênh tài trợ duy nhất đã được xác nhận là **học bổng ASEAN của MOE**, chỉ có ở lối vào Secondary 3. Chưa rõ NUS High có nằm trong danh sách trường của học bổng này hay không. Xem [mục 13.7](#muc-13-7).
+- Nếu đi đường nộp đơn trực tiếp vào NUS High, nên tính là **tự túc toàn bộ chi phí** (xem [mục 11](#muc-11)). [Ước tính]
 
-### 12.2 Edusave Awards và Edusave Scholarships (gồm ESIS)
+### 13.2 Edusave Awards và Edusave Scholarships (gồm ESIS)
 
 [Chính thức: trang Scholarships and Awards, FAQ #15]
 
@@ -795,7 +1114,7 @@ Tính theo mức phí năm 2026 và tỷ giá khoảng 20.500đ/SGD. Tỷ giá t
 - **ESIS** (Edusave Scholarship for Independent Schools) áp dụng ở NUS High. Học bổng này trao cho học sinh vào các trường độc lập, dựa trên điểm PSLE.
 - Không áp dụng cho học sinh quốc tế. [Ước tính, vì học bổng ghi rõ dành cho người Singapore và xét theo điểm PSLE]
 
-### 12.3 MOE Independent School Bursary (ISB)
+### 13.3 MOE Independent School Bursary (ISB)
 
 [Chính thức: trang Financial Assistance]
 
@@ -803,20 +1122,20 @@ Tính theo mức phí năm 2026 và tỷ giá khoảng 20.500đ/SGD. Tỷ giá t
 - Từ năm 2026, phụ huynh nộp đơn qua ứng dụng Parents Gateway hoặc trang go.gov.sg/moe-efasis bằng Singpass. Nên nộp sớm vì cần thời gian xử lý.
 - Hình thức nộp qua Singpass và Parents Gateway cho thấy khoản này dành cho gia đình đang sống ở Singapore. [Ước tính]
 
-### 12.4 UPLIFT Scholarship
+### 13.4 UPLIFT Scholarship
 
 [Chính thức: trang Financial Assistance]
 
 - MOE đưa ra từ ngày 1/4/2019, để ghi nhận học sinh trường độc lập có thành tích học tập hoặc năng khiếu tốt và đến từ gia đình thu nhập thấp.
 
-### 12.5 NUS High Study Award
+### 13.5 NUS High Study Award
 
 [Chính thức: trang Financial Assistance]
 
 - Khoản trợ cấp riêng của NUS High, chỉ cấp **thêm** cho học sinh đã nhận UPLIFT Scholarship, bổ sung cho trợ cấp ISB.
 - Đây là khoản trợ cấp duy nhất mang tên NUS High trên website, và chỉ dành cho học sinh đã nhận UPLIFT.
 
-### 12.6 Các khoản hỗ trợ khác của trường
+### 13.6 Các khoản hỗ trợ khác của trường
 
 [Chính thức]
 
@@ -824,8 +1143,8 @@ Tính theo mức phí năm 2026 và tỷ giá khoảng 20.500đ/SGD. Tỷ giá t
 - **Year 3:** gia đình khó khăn tài chính có thể đề nghị miễn phí hành chính S$70 khi nộp đơn.
 - **Nội trú Year 5:** trường trợ cấp cho học sinh khó khăn thuộc diện hỗ trợ tài chính của MOE.
 
-<a id="muc-12-7"></a>
-### 12.7 Học bổng ASEAN cho học sinh Việt Nam (do MOE cấp)
+<a id="muc-13-7"></a>
+### 13.7 Học bổng ASEAN cho học sinh Việt Nam (do MOE cấp)
 
 [Chính thức: MOE, Đại sứ quán Singapore tại Hà Nội]
 
@@ -845,17 +1164,17 @@ Tính theo mức phí năm 2026 và tỷ giá khoảng 20.500đ/SGD. Tỷ giá t
 - **Chưa rõ NUS High có nằm trong danh sách trường do MOE chọn hay không.** Gia đình không tự chọn trường được.
 - **Với bé sinh 2015** [Ước tính]: nếu khung năm sinh tiếp tục lùi theo năm, bé có thể nộp khoảng tháng 1/2029, khi đang học lớp 8, để nhập học tháng 1/2030. Con đường này độc lập với việc nộp thẳng Year 3 vào NUS High (khoảng tháng 8/2029), nên có thể đi song song.
 
-### 12.8 Về cụm từ "học bổng NUSH" trên báo chí
+### 13.8 Về cụm từ "học bổng NUSH" trên báo chí
 
 - Một bài báo trong nước (Báo Đại biểu Nhân dân, 19/11/2024, bài mang tính quảng bá cho một tập đoàn giáo dục) có dùng cụm "học bổng NUSH", đặt cạnh học bổng ASEAN dạng "School-Based Scholarship". [Không chính thức]
-- **Không kiểm chứng được** đây là học bổng gì. Website NUS High không có học bổng nào cho học sinh quốc tế. Có thể đó là học bổng ASEAN mà học sinh được xếp vào NUS High, hoặc một học bổng không công bố công khai. Cần hỏi trực tiếp trường (câu hỏi ở [mục 15](#muc-15)).
+- **Không kiểm chứng được** đây là học bổng gì. Website NUS High không có học bổng nào cho học sinh quốc tế. Có thể đó là học bổng ASEAN mà học sinh được xếp vào NUS High, hoặc một học bổng không công bố công khai. Cần hỏi trực tiếp trường (câu hỏi ở [mục 16](#muc-16)).
 
 [↑ Về mục lục](#muc-luc)
 
 ---
 
-<a id="muc-13"></a>
-## 13. Toàn bộ Hỏi đáp tuyển sinh của trường (35 câu)
+<a id="muc-14"></a>
+## 14. Toàn bộ Hỏi đáp tuyển sinh của trường (35 câu)
 
 [Chính thức: trang Admissions FAQs, cập nhật 24/6/2026. Bản dịch và diễn giải tiếng Việt, đủ 35 câu.]
 
@@ -983,8 +1302,8 @@ Không bắt buộc. Tuy nhiên trường rất khuyến khích thí sinh đang 
 
 ---
 
-<a id="muc-14"></a>
-## 14. Thông tin khác từ website
+<a id="muc-15"></a>
+## 15. Thông tin khác từ website
 
 **Open House 2026** [Chính thức: trang Open House]
 
@@ -1030,8 +1349,8 @@ Không bắt buộc. Tuy nhiên trường rất khuyến khích thí sinh đang 
 
 ---
 
-<a id="muc-15"></a>
-## 15. Những điểm chưa rõ, cần hỏi trường
+<a id="muc-16"></a>
+## 16. Những điểm chưa rõ, cần hỏi trường
 
 Gửi đến email tuyển sinh **newton@highsch.nus.edu.sg** (câu 2 có thể gửi văn phòng nội trú boarding@highsch.nus.edu.sg).
 
@@ -1048,8 +1367,8 @@ Gửi đến email tuyển sinh **newton@highsch.nus.edu.sg** (câu 2 có thể 
 
 ---
 
-<a id="muc-16"></a>
-## 16. Nguồn
+<a id="muc-17"></a>
+## 17. Nguồn
 
 ### Nguồn chính thức: NUS High School
 
@@ -1097,6 +1416,16 @@ Gửi đến email tuyển sinh **newton@highsch.nus.edu.sg** (câu 2 có thể 
 - Henry Park Primary, danh sách sách lớp P6 năm 2026: https://www.henryparkpri.moe.edu.sg/files/P6_2026.pdf
 - Kent Ridge Secondary, thủ tục DSA-Sec 2026 (số đăng ký RG, giờ mở cổng): https://www.kentridgesec.moe.edu.sg/school-information/direct-school-admission-2026/application-procedure/
 - Swiss Cottage Secondary, lưu ý cho học sinh quốc tế: https://swisscottagesec.moe.edu.sg/other-information/
+- MOE, danh sách nước ASEAN tính học phí: https://www.moe.gov.sg/financial-matters/fees?pt=2026
+- MAA, AMC 8: https://maa.org/maa-invitational-competitions/amc/amc-8/
+- MAA, AMC 10/12: https://maa.org/maa-invitational-competitions/amc/amc-10-12/
+- MAA, AIME và quy định tham gia 2027: https://maa.org/maa-invitational-competitions/amc/aime/
+- AMT (Australian Maths Trust), Australian Mathematics Competition: https://www.amt.edu.au/competitions/amc/
+- IMSO, trang chủ: https://www.imso.id/
+- USACO, trang chủ: https://usaco.org/
+- Trung ương Đoàn, Hội thi Tin học trẻ toàn quốc: http://thitinhoctre.vn/
+- Bộ GD&ĐT, dự thảo quy chế ViSEF: https://moet.gov.vn/
+- Sở GD&ĐT Hà Nội, kế hoạch chọn đội tuyển IJSO: tài liệu PDF công khai trên trang Sở GD&ĐT Hà Nội
 
 ### Nguồn không chính thức (chỉ để tham khảo)
 
@@ -1104,5 +1433,27 @@ Gửi đến email tuyển sinh **newton@highsch.nus.edu.sg** (câu 2 có thể 
 - Báo Đại biểu Nhân dân, bài viết 19/11/2024 có cụm "học bổng NUSH": https://daibieunhandan.vn/hoc-sinh-equest-gianh-hoc-bong-danh-gia-tri-gia-hang-ty-dong-cua-chinh-phu-singapore-10352369.html
 - Borderless, tổng quan học bổng ASEAN: https://borderless.so/scholarships/moe-singapore/asean-scholarship
 - Wise, tỷ giá SGD/VND: https://wise.com/us/currency-converter/sgd-to-vnd-rate
+- Think Academy, giới thiệu AMC: https://www.thethinkacademy.com/
+- Aralia Education, giới thiệu các kỳ thi Toán quốc tế: https://aralia.com/
+- Cuemath, giới thiệu AMC/olympiad: https://www.cuemath.com/
+- Physics Wallah, giới thiệu các kỳ thi Khoa học quốc tế: https://www.pw.live/
+- Vietnam News, tin về các đội tuyển Olympic quốc tế: https://vietnamnews.vn/
+- Báo Lào Cai, tin về học sinh thi quốc tế: https://baolaocai.vn/
+- Báo Đại biểu Nhân dân, tin liên quan: https://daibieunhandan.vn/
+- Cổng thông tin UBND phường Hội An, tin về IMC quốc tế 2025: trang chính thức UBND phường Hội An
+- Trường ĐH Tôn Đức Thắng, tin liên quan kỳ thi quốc tế: https://tdtu.edu.vn/
+- Cổng thông tin điện tử Đà Nẵng, tin về IMC quốc tế 2025: https://danang.gov.vn/
+- Archimedes Academy, tài liệu giới thiệu IMC (bản PDF nội bộ trường)
+- Southern Illinois University, trang giới thiệu AMO: https://math.siu.edu/
+- Anglo Singapore International School, tài liệu PDF giới thiệu SASMO/AMO
+- SEAMO Guidelines (PDF, lưu trên trang một số trường, ví dụ RCHK)
+- Ang Mo Kio Primary School, trang thông tin các kỳ thi Toán quốc tế
+- DTiNews, tin về đội tuyển IJSO Việt Nam: https://dtinews.vn/
+- VTV, tin về IJSO: https://vtv.vn/
+- Vinschool, bài viết lịch sử AMC tại Việt Nam: https://vinschool.edu.vn/
+- Rise Global Education / Melicreview, giới thiệu USACO: các bài viết giới thiệu kỳ thi USACO cho học sinh quốc tế
+- Thương hiệu và Công luận, bài viết về Hội thi Tin học trẻ và AMC Úc (trường Newton): https://thuonghieucongluan.com.vn/
+
+Ghi chú: một số nguồn không chính thức ở trên là bài báo hoặc trang trung tâm luyện thi, dùng để tham khảo thêm, không dùng để khẳng định thông tin tuyển sinh hay học bổng chính thức.
 
 [↑ Về mục lục](#muc-luc)

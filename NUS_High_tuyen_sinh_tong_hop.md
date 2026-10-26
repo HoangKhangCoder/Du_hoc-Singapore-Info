@@ -1,6 +1,6 @@
 # NUS High School of Mathematics and Science — Hồ sơ thông tin tuyển sinh đầy đủ
 
-**Cập nhật:** 11/10/2026
+**Cập nhật:** 16/10/2026
 
 **Trường hợp áp dụng:** học sinh Việt Nam sinh năm 2015, đang học lớp 6 chương trình MOET (năm học 2026–2027)
 
